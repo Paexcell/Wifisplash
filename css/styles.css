@@ -73,12 +73,11 @@ h1 {
 
 .top-container .pageimage {
   position: absolute;
-  width: 100%;
+  width: 90%;
   padding-left:0px;
   padding-right:0px;
   padding-top:240px;
   padding-bottom:0px;
-
 }
 
 .top-container {
