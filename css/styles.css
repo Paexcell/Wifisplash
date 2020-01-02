@@ -74,8 +74,8 @@ h1 {
 .top-container .pageimage {
   position: absolute;
   width: 100%;
-  padding-left:10px;
-  padding-right:10px;
+  padding-left:0px;
+  padding-right:0px;
   padding-top:240px;
   padding-bottom:0px;
 
