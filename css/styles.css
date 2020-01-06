@@ -74,11 +74,8 @@ h1 {
 .pageimage {
   position: absolute;
   height: 20%;
-  padding-left:0px;
-  padding-right:0px;
-  padding-top:240px;
-  padding-bottom:0px;
-}
+  padding:240px 0 0 0;
+ }
 
 .top-container {
   display: table;
